@@ -1,6 +1,6 @@
 [![MasterHead](https://datascientest.com/en/files/2021/01/Machine-learning-def-.png)](https://github.com/IntelliJunkie06)
 <h1 align="center">Hi 👋, I'm Debayan Mukherjee</h1>
-<h3 align="center">Transforming Data into Intelligence – Exploring the Frontiers of Machine Learning, Deep Learning, NLP, and Large Language Models!"</h3>
+<h3 align="center">Transforming Data into Intelligence – Exploring the Frontiers of Machine Learning, Deep Learning, NLP, and Large Language Models!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VenHzUAglmaRajxjDI_f7A.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intellijunkie06&label=Profile%20views&color=0e75b6&style=flat" alt="intellijunkie06" /> </p>
 
