@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VenHzUAglmaRajxjDI_f7A.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intellijunkie06&label=Profile%20views&color=0e75b6&style=flat" alt="intellijunkie06" /> </p>
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Large Language Models,GenAI**
+- 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Data Mining,Data Warehousing,Big Data**
 
 - 📫 How to reach me **mukherjeedebayan1506@gmail.com**
 
